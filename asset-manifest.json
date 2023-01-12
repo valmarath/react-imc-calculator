@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-imc-calculator/static/css/main.558b96cc.css",
+    "main.js": "/react-imc-calculator/static/js/main.1ce319d8.js",
+    "static/js/787.10a56187.chunk.js": "/react-imc-calculator/static/js/787.10a56187.chunk.js",
+    "static/media/powered.png": "/react-imc-calculator/static/media/powered.31688c4f015d2f42e203.png",
+    "index.html": "/react-imc-calculator/index.html",
+    "main.558b96cc.css.map": "/react-imc-calculator/static/css/main.558b96cc.css.map",
+    "main.1ce319d8.js.map": "/react-imc-calculator/static/js/main.1ce319d8.js.map",
+    "787.10a56187.chunk.js.map": "/react-imc-calculator/static/js/787.10a56187.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.558b96cc.css",
+    "static/js/main.1ce319d8.js"
+  ]
+}
